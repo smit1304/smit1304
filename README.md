@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smit1304
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Software and Game Development
 - 🌱 I’m currently learning B.tech ComputerEnginerring
 - 📫 How to reach me @smitp1030@gamil.com
 
